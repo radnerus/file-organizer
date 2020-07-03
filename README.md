@@ -1,4 +1,4 @@
-#File Organizer
+# File Organizer
 
 NodeJS script to organize files in the specified folder by moving it into sub-folders with the extension name.
 
