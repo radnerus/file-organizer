@@ -16,6 +16,6 @@ One-more.jpg<br />
 
 File in path(After Organizing):<br />
 📁jpg<br />↪ Awesome.jpg<br />↪ One-more.jpg<br />
-📁mp4<br />↪ Barcelona.png<br />
-📁png<br />↪ AnotherImage.mp4<br />
+📁mp4<br />↪ Barcelona.mp4<br />
+📁png<br />↪ AnotherImage.png<br />
 📁psd<br />↪ Idea.psd
