@@ -15,7 +15,6 @@ AnotherImage.png<br />
 One-more.jpg<br />
 
 File in path(After Organizing):
-
 jpg<br />↪ Awesome.jpg<br />↪ One-more.jpg<br />
 mp4<br />↪ Barcelona.png<br />
 png<br />↪ AnotherImage.png<br />
