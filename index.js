@@ -8,11 +8,12 @@ console.log(BASE_DIR);
 
 if (!BASE_DIR) {
     return console.log('Please specify path for cleaning up.');
+} else if (!fs.existsSync(BASE_DIR) || !fs.statSync(BASE_DIR).isDirectory()) {
+    return console.log('Please specify a valid path for cleaning up.');
 }
 
+
 let movedFiles = 0;
-
-
 fs.readdirSync(BASE_DIR).forEach(fileName => {
     const fullFileName = `${BASE_DIR}/${fileName}`;
     const fileStats = fs.statSync(fullFileName);
