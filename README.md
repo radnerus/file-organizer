@@ -17,14 +17,14 @@ One-more.jpg
 File in path(After Organizing):
 
 jpg
-↪ Awesome.jpg
-↪ One-more.jpg
+  ↪ Awesome.jpg
+  ↪ One-more.jpg
 
 mp4
-↪ Barcelona.png
+  ↪ Barcelona.png
 
 png
-↪ AnotherImage.png
+  ↪ AnotherImage.png
 
 psd
-↪ Idea.psd
+  ↪ Idea.psd
