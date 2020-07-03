@@ -16,7 +16,7 @@ One-more.jpg
 
 File in path(After Organizing):
 
-\jpg  ↪ Awesome.jpg  ↪ One-more.jpg  
+jpg<br />↪ Awesome.jpg  ↪ One-more.jpg  
 \mp4\↪ Barcelona.png\
 png\↪ AnotherImage.png\
 psd\↪ Idea.psd
